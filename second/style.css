@@ -1,0 +1,19 @@
+.main{
+          align-items: center;
+
+}
+
+#yes{
+          height: 30px;
+          width: 80px;
+          background-color: green;
+          color: white;
+}
+
+
+#no{
+          height: 30px;
+          width: 80px;
+          background-color: green;
+          color: white;
+}
